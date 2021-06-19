@@ -1,4 +1,4 @@
-# TuringMachine
+# Turing Machine Simulator
 
 Tugas Besar Teori Bahasa dan Automata
 
