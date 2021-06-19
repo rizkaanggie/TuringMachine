@@ -550,8 +550,8 @@ public class penjumlahan {
 		
 		record_on = true;
 		
-		int input_1 = 20;
-		int input_2 = -12;
+		int input_1 = 16;
+		int input_2 = 7;
 		
 		System.out.println("Penjumlahan "+input_1+" dengan "+input_2+"\n");
 		
